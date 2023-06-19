@@ -1,0 +1,9 @@
+- cài đặt axios -> dùng để call api
+- setup mã nguồn có @reduxjs/toolkit react-redux
+  + cài đặt reduxjs/toolkit react-redux
+  + tạo store
+  + liên kết redux với react -> Provider -> truyền store vào prop store của Provider
+  + Module Todo
+    * Tạo todoSlice
+    * export reducer từ todoSlice
+    * import todoReducer vào store
